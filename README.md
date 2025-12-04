@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lavanya 👋
 
-<!--
-**LavanyaGondhi/LavanyaGondhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Skills I'm Learning
+- Python
+- HTML
+- Artificial Intelligence (AI)
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+I'm a student currently learning programming and building my skills step by step.  
+I enjoy learning new technologies and want to work on real projects soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goals
+- Improve Python programming
+- Learn full web development (HTML, CSS, JavaScript)
+- Start small AI projects
+- Upload my first GitHub project soon##
