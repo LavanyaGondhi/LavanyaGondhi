@@ -13,4 +13,4 @@ I enjoy learning new technologies and want to work on real projects soon!
 - Improve Python programming
 - Learn full web development (HTML, CSS, JavaScript)
 - Start small AI projects
-- Upload my first GitHub project soon##
+- Upload my first GitHub project soon
