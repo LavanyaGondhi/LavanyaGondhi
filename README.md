@@ -6,7 +6,7 @@ I enjoy learning new technologies and want to work on real projects soon!
 
 ### 🌱 Skills I'm Learning
 - Python
-- HTML
+- Web Development
 - Artificial Intelligence (AI)
 
 ### 🎯 My Goals
